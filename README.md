@@ -1,5 +1,7 @@
 <img src="./assets/yu-laodeng-banner.png" alt="与老登" width="100%">
 
+<!-- GitHub profile README -->
+
 # 与老登
 
 航空从业者，不是程序员。正在记录我怎样和 AI 一起，把真实业务经验变成能运行的软件。
