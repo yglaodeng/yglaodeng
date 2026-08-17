@@ -16,6 +16,8 @@
 
 从航线销售经验出发，覆盖策略、销售节奏、库存预警、运营台账和 Mock OTA 模拟闭环。
 
+[在线查看项目介绍](https://yglaodeng.github.io/airline-sales-intelligence/) · [查看源码](https://github.com/yglaodeng/airline-sales-intelligence)
+
 状态：可运行系统初型，模拟流程验证。
 
 <img src="./assets/airline-dashboard.jpg" alt="航空销售智能执行平台运营驾驶舱" width="100%">
