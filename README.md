@@ -6,9 +6,17 @@
 
 航空从业者，不是程序员。正在记录我怎样和 AI 一起，把真实业务经验变成能运行的软件。
 
+**English:** Airline operator building real, testable software with AI—focused on airline sales, local-first data work, and approval-gated execution.
+
 以前，一套航空销售系统往往投入上百万元、开发半年以上。我从不会写代码开始，与 ChatGPT、Codex 协作，不到两个月做出了航空销售系统初型，并逐步建立数据处理和 AI 协作工具。
 
 这里不展示虚构概念，只放经过当前测试、能够说明真实边界的项目。
+
+## 从这里开始 / Start here
+
+1. [在线了解航空销售智能执行平台](https://yglaodeng.github.io/airline-sales-intelligence/) — 航线策略、库存预警与 Mock OTA 验证
+2. [AI 数据工作台](https://github.com/yglaodeng/ai-data-workbench) — 自然语言目标、原始文件只读、结果可追溯
+3. [AI Product Studio](https://github.com/yglaodeng/ai-product-studio) — 人工确认、受控执行、结果回传
 
 ## 公开项目
 
